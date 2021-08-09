@@ -1,0 +1,15 @@
+body{ 
+background-color: lightblue;
+font-size: 15px;
+background-image: url(image1.jpg);
+background-repeat: no-repeat;
+background-size: 100% 100%;
+}
+h1   {
+color: red;
+font-size: 45px;
+
+}
+p    {
+color: black;
+}
